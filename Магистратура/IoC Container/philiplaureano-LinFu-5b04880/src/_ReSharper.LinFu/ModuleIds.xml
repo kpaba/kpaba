@@ -1,0 +1,12 @@
+<Modules>
+  <Module PersistentId="FA3D5517-EFF4-4363-AFF2-EF67B981334E" ModuleId="LinFu.IoC" />
+  <Module PersistentId="D027A765-4D2E-48AE-9D83-C5F5AFA7D8C1" ModuleId="LinFu.IoC.Common" />
+  <Module PersistentId="020A9D4F-3C8C-48B5-830F-2EDAB07E0D97" ModuleId="LinFu.Finders" />
+  <Module PersistentId="E3B1686C-DCB3-44E7-BB25-9483592EA942" ModuleId="UnitTests" />
+  <Module PersistentId="DEFBEF97-B03C-448F-9518-394735439E2E" ModuleId="SampleLibrary" />
+  <Module PersistentId="54DA7856-9026-439A-8FFE-88BBF99577B8" ModuleId="LinFu.Proxy" />
+  <Module PersistentId="DC20B330-B410-481D-A192-D82A07D2C7EF" ModuleId="LinFu.Proxy.Extensions" />
+  <Module PersistentId="613B6547-DCBB-4505-82B8-B4179BFC95CE" ModuleId="LinFu.AOP.Cecil" />
+  <Module PersistentId="0F8C48B0-4AE9-4429-AB90-C5141D710C2C" ModuleId="LinFu.AOP.Interfaces" />
+  <Module PersistentId="22EEB00F-F471-486C-A6AD-60F088821C78" ModuleId="LinFu.Reflection" />
+</Modules>
